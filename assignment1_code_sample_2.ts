@@ -64,4 +64,4 @@ function saveToDb(data: string) {
     sendEmail('admin@example.com', 'User Input', userInput);
 })();
 
-// review
+// review for security
